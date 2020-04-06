@@ -1,5 +1,4 @@
-## CS112 - Causal Inference Assignment
-CS112 is a statistical information based decision making course. This assignment examines the causal inference between UN interventions and peace keeping progress in some countries.
+
 ### Description
 The paper is an observation study that analyzes the impact (treatment effect) of UN peacekeeping interventions on the countries’ lenient peacebuilding success 2 years (*pbs2l*) and 5 years (*pbs5l*) after the war, with *untype* as the treatment and any countries that received any type of interventions (*untype* different from *None* or 0) belong to treatment group and control group otherwise.
 
