@@ -6,4 +6,4 @@ First, I replicated figure 8 in https://gking.harvard.edu/files/counterf.pdf to 
 
 Therefore, matching was applied to increase accuracy by decreasing the dissimilarities between the two study group. The results show that UN interventions did increase the peace building success in the given countries by 0.2% after 2 years and 0.26% after 5 years. The result is plausible because there is not much initial difference between the control and treatment groups that can cause the treatment effect, indicated by the big p-values 0.15 and 0.2. 
 
-The full report can be accessed here: https://docs.google.com/document/d/1Y5E6iIBiFdlbOk3PzUj1FblxD-ATF7qQ0kQ9mnt6_C4/edit
+The full report can be accessed here: https://github.com/trangnguyenvn1398/Causal_Inference/blob/master/Causal_Inference_UN.pdf
